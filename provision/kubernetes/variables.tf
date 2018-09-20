@@ -51,3 +51,7 @@ variable "flavor" {
   default = "@FLAVOR"
 }
 
+variable "machine_name" {
+  default = "@MACHINE_NAME"
+}
+
